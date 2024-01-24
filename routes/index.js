@@ -1,7 +1,6 @@
 var express = require('express');
 var router = express.Router();
 
-
 var CryptoJS = require('crypto-js')
 var OAuth = require('oauth-1.0a')
 var jsQR = require('jsqr')
